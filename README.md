@@ -1,6 +1,6 @@
 <h3>Hi there 🌍 , I'm Theshan Kaveen Liyanaarachchi ! 👋 </h3>
 
-<h4>How to reach me ...</h4>
+<h4>How to reach me 📱 </h4>
 
 <a href="https://twitter.com/TheshanKaveen">
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
@@ -14,7 +14,10 @@
 <br/>
 <br/>
 
-  📚 I’m currently Undergraduate of University of Kelaniya
+<li>📚 Undergraduate of University of Kelaniya</li>
+<li>👨‍💻 Front-end Developer</li>
+
+<br/>
 
 <!-- - 👋 Hi, I’m @tkaveen -->
 <!-- - 👀 I’m interested in ... -->

@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-  
+  📚 I’m currently Undergraduate of University of Kelaniya
 
 <!-- - 👋 Hi, I’m @tkaveen -->
 <!-- - 👀 I’m interested in ... -->

@@ -3,10 +3,10 @@
 <h4>How to reach me 📱 </h4>
 
 <a href="https://twitter.com/TheshanKaveen">
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<img align="left" width="30px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/>
 </a>
 <a href="https://www.linkedin.com/in/theshan-kaveen-liyanaarachchi-02a40475">
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
+<img align="left" width="30px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png"/>
 </a>
 
 

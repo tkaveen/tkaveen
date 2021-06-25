@@ -1,4 +1,4 @@
-<h3>Hi there 🌍 , I'm Theshan Kaveen Liyanaarachchi ! 👋 </h3>
+<h3>Hello there 🌍 , I'm Theshan Kaveen Liyanaarachchi ! 👋 </h3>
 
 <h4>How to reach me 📱 </h4>
 

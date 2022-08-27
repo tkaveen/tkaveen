@@ -14,8 +14,8 @@
 <br/>
 <br/>
 
-<li>📚 Undergraduate of University of Kelaniya</li>
-<li>👨‍💻 Front-end Developer</li>
+<li>✘ Undergraduate of University of Kelaniya</li>
+<li>✘ Software Engineer</li>
 
 <br/>
 

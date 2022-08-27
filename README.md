@@ -14,8 +14,8 @@
 <br/>
 <br/>
 
-<li>✘ Undergraduate of University of Kelaniya</li>
-<li>✘ Software Engineer</li>
+✘ Undergraduate of University of Kelaniya
+✘ Software Engineer
 
 <br/>
 

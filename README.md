@@ -16,6 +16,7 @@
 
 ✘ Undergraduate of University of Kelaniya <br/>
 ✘ Software Engineer
+✘ UI/UX Designer
 
 <br/>
 

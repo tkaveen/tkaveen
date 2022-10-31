@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaveen&theme=algolia&hide_langs_below=1&layout=compact"/>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/a1c8599331c2bfb41821bc332ddb14e39c8a9c18a467f757a8858c084571fbff/68747470733a2f2f7261772e6769746875622e636f6d2f77696c6c69616d62656c6c652f6769746875622d636f6e747269627574696f6e2d636f6c6f722d67726170682f6d61737465722f646f63732f636f6e747269627574696f6e732d626c75652e706e67" width="393" height="260">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/tkaveen" width="393" height="260">

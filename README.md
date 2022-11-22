@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/tkaveen" width="393" height="260"> -->
 
-![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQFMtLDL8mym-A/profile-displaybackgroundimage-shrink_350_1400/0/1664696721310?e=1674691200&v=beta&t=3hYDi8XP8zVdxpygEZdQDYafOQ8thngzDu4P4EOcw0A)
+![MasterHead](https://github.com/tkaveen/tkaveen/blob/main/Untitled-1%20dark.png)
 
 <h1 align="center">Hello🌍 </h1>
 <h3 align="center">DESIGN | CODE</h3>

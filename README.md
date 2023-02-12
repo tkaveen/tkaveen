@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 - **Undergraduate of University of Kelaniya**
 - **Software Engineer**
 - **UI/UX Designer**
-- How to reach me **kaveenliyanaarachchi@gmail.com**
+- **kaveenliyanaarachchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

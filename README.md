@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hello🌍 </h1>
 <h3 align="center">DESIGN | CODE</h3>
 
-- **Undergraduate of University of Kelaniya**
+<!-- - **Undergraduate of University of Kelaniya** -->
 - **Software Engineer**
 - **UI/UX Designer**
 - **kaveenliyanaarachchi@gmail.com**

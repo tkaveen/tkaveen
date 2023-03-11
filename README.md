@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <!-- - **Undergraduate of University of Kelaniya** -->
 - **Software Engineer**
 - **UI/UX Designer**
-- **kaveenliyanaarachchi@gmail.com**
+<!-- - **kaveenliyanaarachchi@gmail.com** -->
 
 <h3 align="left">How to connect with me :</h3>
 <p align="left">

@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkaveen&show_icons=true&theme=dark&locale=en&layout=compact" alt="tkaveen" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkaveen&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&f&locale=en" alt="tkaveen" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkaveen&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&f&locale=en" alt="tkaveen" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkaveen&theme=dark" alt="tkaveen" /></p>
 
